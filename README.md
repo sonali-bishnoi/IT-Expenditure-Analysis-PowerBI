@@ -5,11 +5,11 @@ This project presents an interactive Power BI dashboard designed to analyze an o
 # Business Problem
 The organization is experiencing significant differences between its planned, forecasted, and actual IT expenditure.
 Management needs a centralized dashboard to:
--Monitor IT spending
--Identify overspending and underspending
--Compare Actual vs Plan vs Forecast
--Analyze expenditure across Business Areas, Countries, IT Areas, and Cost Elements
--Improve future budgeting decisions
+- Monitor IT spending
+- Identify overspending and underspending
+- Compare Actual vs Plan vs Forecast
+- Analyze expenditure across Business Areas, Countries, IT Areas, and Cost Elements
+- Improve future budgeting decisions
 
 
 # Dashboard Pages
