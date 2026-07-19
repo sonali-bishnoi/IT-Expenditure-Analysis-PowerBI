@@ -16,50 +16,32 @@ Management needs a centralized dashboard to:
 
 ## Executive Summary
 This page provides a high-level overview of IT expenditure.
-
-Key Insights
-
-Total Actual Expenditure
-
-Total Planned Budget
-
-Total Forecasted Expenditure
-
-Plan Variance %
-
-Actual vs Plan by Business Area
-
-IT Spend by Cost Element Group
-
-Country-wise IT Expenditure
+Key Insights : 
+- Total Actual Expenditure
+- Total Planned Budget
+- Total Forecasted Expenditure
+- Plan Variance %
+- Actual vs Plan by Business Area
+- IT Spend by Cost Element Group
+- Country-wise IT Expenditure
 
 
 ## Variance Analysis
 This page identifies where budget deviations occur.
-
-Key Insights
-
-Variance by Business Area
-
-Top 10 Cost Elements with Highest Variance
-
-Variance by IT Area
-
-Detailed Business Area Matrix
+Key Insights :
+- Variance by Business Area
+- Top 10 Cost Elements with Highest Variance
+- Variance by IT Area
+- Detailed Business Area Matrix
 
 
 ## Future Forecast
 This page focuses on future IT expenditure trends.
-
-Key Insights
-
-Future Monthly IT Expenditure
-
-Future Spend by Business Area
-
-Future Spend by IT Area
-
-Future Country-wise Expenditure
+Key Insights :
+- Future Monthly IT Expenditure
+- Future Spend by Business Area
+- Future Spend by IT Area
+- Future Country-wise Expenditure
 
 # Dashboard Preview
 
@@ -76,40 +58,25 @@ Future Country-wise Expenditure
 <img width="662" height="374" alt="image" src="https://github.com/user-attachments/assets/01363e4e-dbd4-4504-8bf9-edf21f0cab42" />
 
 # Tools Used
-Microsoft Power BI Desktop
-
-Power Query
-
-DAX
-
-Microsoft Excel
+- Microsoft Power BI Desktop
+- Power Query
+- DAX
+- Microsoft Excel
 
 # Dataset Information
 The dataset contains historical and future IT expenditure data.
-
 Main columns include:
-
-Date
-
-Business Area
-
-Region
-
-Country
-
-IT Area
-
-IT Sub Area
-
-Cost Element Name
-
-Cost Element Group
-
-Actual
-
-Plan
-
-Forecast
+- Date
+- Business Area
+- Region
+- Country
+- IT Area
+- IT Sub Area
+- Cost Element Name
+- Cost Element Group
+- Actual
+- Plan
+- Forecast
 
 # DAX Measures
 The dashboard uses the following measures:
@@ -133,15 +100,10 @@ DIVIDE(
 )
 
 # Key Business Insights
-
-Infrastructure has the highest IT expenditure.
-
-Labor contributes the largest share of total IT costs.
-
-The USA accounts for the highest IT spending.
-
-Several business areas show significant negative variance against the planned budget.
-
-Future forecasts indicate continued high investment in Infrastructure and Functional IT Areas.
+- Infrastructure has the highest IT expenditure.
+- Labor contributes the largest share of total IT costs.
+- The USA accounts for the highest IT spending.
+- Several business areas show significant negative variance against the planned budget.
+- Future forecasts indicate continued high investment in Infrastructure and Functional IT Areas.
 
 
